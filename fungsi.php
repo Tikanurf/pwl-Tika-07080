@@ -1,4 +1,8 @@
 <?php
+$host = "localhost"; // Ganti dengan host database Anda
+$user = "user"; // Ganti dengan username database Anda
+$pass = "Tikanurf"; // Ganti dengan password database Anda
+$dbname = "pwl07080"; // Ganti dengan nama database And
 $koneksi = mysqli_connect("localhost","root","","pwl07080");
  
 
